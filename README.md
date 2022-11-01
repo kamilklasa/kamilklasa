@@ -1,9 +1,14 @@
 ###🤙 Welcome, here
 Kamil "Kamiz" Klasa
 
+
 ⚡ UI/UX Designer & Front-end Developer
+
 🌐 My website: https://kamilklasa.pl
+
 📧 Contact: contact@kamilklasa.pl
+
+
 
 🌱 I’m currently learning REACT
 
